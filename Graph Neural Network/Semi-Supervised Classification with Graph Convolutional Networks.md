@@ -1,6 +1,6 @@
 # Semi-Supervised Classification with Graph Convolutional Networks
 
-## Recap 
+## Abstract
 
 ## Problem 
 
