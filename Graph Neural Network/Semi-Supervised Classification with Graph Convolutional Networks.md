@@ -6,9 +6,9 @@
 
 ## Problem 
 
-## How solve the Problem
+## Solution
 
-## Experiments and findings
+## Experiments and Findings
 
 ## Inspiration 
 
