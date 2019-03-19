@@ -72,7 +72,11 @@ Ps:之所以如此编号，是为了确定邻接矩阵的index
 
 ## 实现ST-GCN
 
+输入Tensor: shape ( C, V, T)
 
+C : 单个节点上的feature维度
+V : 时空域节点的总和 
+T ： 时间帧数
 
 
 
