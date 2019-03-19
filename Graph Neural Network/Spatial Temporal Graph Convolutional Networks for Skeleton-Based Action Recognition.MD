@@ -48,7 +48,7 @@ $f_{out}(v_{ti}= \sum\limits_{v_{tj} \in B(v_{ti})} \frac{1}{Z_{ti}(v_{tj})}f_{i
 $l_{ST}(v_{qj}) = l_{ti}(v_{tj}) + (q-t+ \lfloor \Gamma/2 \rfloor) x K $
 其中$l_{ti}(v_{tj})$是t时刻， i节点的空域标号。
 理解： 参照图1， 就是时域的邻域为前后 $$\lfloor \Gamma/2 \rfloor)$$ 帧， 每帧考虑K个节点(图1很好的解释了该公式)。
-Ps:之所以如此编号，是为了去对权重进行embedding，也就是权重是学出来的。
+Ps:之所以如此编号，是为了确定邻接矩阵的index
 
 ## Partition Strategies 
 
