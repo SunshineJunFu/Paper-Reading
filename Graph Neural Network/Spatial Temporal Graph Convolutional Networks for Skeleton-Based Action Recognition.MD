@@ -1,3 +1,9 @@
+## Research Topic
+
+## Current Research State
+
+## Pipeline OVerview
+
 ## Skeleton Graph Construction 
 
 T帧骨骼序列，每帧包含N个连接点，其可以构成一个无向时空图G = (V, E)，图中的节点集为 $V={v_{ti}|t=1,...,T, i=1,...,N}$, 每个节点的特征向量用$F(v_{ti})$来表示，$F(v_{ti})$ 表示第t帧第i个节点的特征向量，其由该点的坐标向量以及坐标向量的置信度组成。
